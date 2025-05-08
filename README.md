@@ -2,6 +2,9 @@
 
 A Python module that adds MaxHeap and MaxPriorityQueue functionality with full support for custom key functions and complex objects.
 
+![Python package](https://img.shields.io/pypi/v/maxheapq)
+![Tests](https://github.com/kunjpatel49/maxheapq/actions/workflows/python-tests.yml/badge.svg)
+
 ## Features
 - MaxHeap using standard heapq under the hood
 - Custom comparator (key function) support
