@@ -12,8 +12,11 @@ A drop-in MaxHeap and MaxPriorityQueue module for Python, with custom key suppor
 maxheapq is a Python utility package that extends the standard heapq module by providing:
 
 ✅ MaxHeap functionality using a familiar heapq-style API
+
 🧠 Custom key function support, similar to sorted() or max()
+
 🏗️ MaxPriorityQueue for handling (priority, item) use cases
+
 🧱 Support for complex objects via @dataclass + @total_ordering
 Built with simplicity and performance in mind, this package allows you to build max-heaps without awkward value negation hacks — all while staying Pythonic and testable.
 
