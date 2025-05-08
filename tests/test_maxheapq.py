@@ -1,5 +1,5 @@
 import pytest
-from maxheapq import MaxHeap, MaxPriorityQueue, ComplexTask
+from heapqplus import MaxHeap, MaxPriorityQueue, ComplexTask
 
 def test_heap_order():
     h = MaxHeap([3, 1, 4])
